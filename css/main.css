@@ -1640,6 +1640,7 @@ header .logo a {
 	header .top-bar {
 		left: 25px;
 		background-color:rgb(92, 92, 92);
+ 		left: -6%;
 	}
 	header .logo {
 		float: left;
