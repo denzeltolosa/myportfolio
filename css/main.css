@@ -1306,6 +1306,7 @@ header .logo a {
 @media only screen and (max-width:768px) {
 	header .top-bar {
 		left: 50px;
+		background-color:rgb(92, 92, 92);
 	}
 	header .logo {
 		float: left;
@@ -1470,6 +1471,7 @@ header .logo a {
 @media only screen and (max-width:600px) {
 	header .top-bar {
 		position: relative;
+		background-color:rgb(92, 92, 92);
 		left: 0%;		
 		
 	}
@@ -1600,7 +1602,7 @@ header .logo a {
 	}
 	/* dropdown nav */
 	.main-navigation {
-		background: #000000;
+		background: rgb(92, 92, 92);
 		padding: 24px 30px 42px;
 		margin: 0;
 		position: relative;
@@ -1637,6 +1639,7 @@ header .logo a {
 @media only screen and (max-width:400px) {
 	header .top-bar {
 		left: 25px;
+		background-color:rgb(92, 92, 92);
 	}
 	header .logo {
 		float: left;
@@ -1672,7 +1675,7 @@ header .logo a {
 	}
 	.menu-toggle span {
 		display: block;
-		background-color: #ff0000;
+		background-color: #ffffff;
 		width: 24px;
 		height: 3px;
 		margin-top: -1.5px;
@@ -1730,7 +1733,7 @@ header .logo a {
 		background-color: rgba(255, 0, 119, 0);
 	}
 	.menu-toggle.is-clicked span::before, .menu-toggle.is-clicked span::after {
-		background-color: #ff0077;
+		background-color: #ffffff;
 		-moz-transition-delay: 0s, 0.2s;
 		-o-transition-delay: 0s, 0.2s;
 		-webkit-transition-delay: 0s, 0.2s;
@@ -1766,7 +1769,7 @@ header .logo a {
 	
 	/* dropdown nav */
 	.main-navigation {
-		background: #000000;
+		background: rgb(92, 92, 92);
 		padding: 24px 30px 42px;
 		margin: 0;
 		position: relative;
