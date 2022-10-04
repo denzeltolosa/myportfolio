@@ -1434,7 +1434,7 @@ header .logo a {
 	
 	/* dropdown nav */
 	.main-navigation {
-		background: #000000;
+		background: rgb(92, 92, 92);
 		padding: 24px 30px 42px;
 		position: relative;
 		left: 0px;
@@ -1472,7 +1472,7 @@ header .logo a {
 	header .top-bar {
 		position: relative;
 		background-color:rgb(92, 92, 92);
-		left: 0%;		
+		left: -6%;		
 		
 	}
 	header .logo {
