@@ -86,7 +86,7 @@ a, a:visited {
 
 }
 a:hover, a:focus, a:active {
-	color: #FF0077;
+	color: #111111;
 	outline: 0;
 }
 
@@ -1472,7 +1472,7 @@ header .logo a {
 	header .top-bar {
 		position: relative;
 		background-color:rgb(92, 92, 92);
-		left: -6%;		
+		left: -5%;		
 		
 	}
 	header .logo {
