@@ -1135,7 +1135,7 @@ header .logo a {
 		border: none;
 }
 .main-nav1 li a:hover {
-	color: #a3a2a2;
+	color: #020202;
 }
 .main-nav1 li.actived > a {
 	color: #000000;
@@ -1795,12 +1795,12 @@ header .logo a {
 		border: none;
 	}
 	.main-navigation li a:hover {
-		color: #b6b6b6;
+		color: #000000;
 		
 	}
 	.main-navigation li.current > a {
 		background: none;
-		color: #8d8d8d;
+		color: #000000;
 	}
 }
 
